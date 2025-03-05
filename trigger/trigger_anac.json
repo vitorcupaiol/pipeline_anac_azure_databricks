@@ -17,7 +17,15 @@
 				"frequency": "Day",
 				"interval": 1,
 				"startTime": "2025-03-06T20:20:00",
-				"timeZone": "E. South America Standard Time"
+				"timeZone": "E. South America Standard Time",
+				"schedule": {
+					"minutes": [
+						25
+					],
+					"hours": [
+						20
+					]
+				}
 			}
 		}
 	}
